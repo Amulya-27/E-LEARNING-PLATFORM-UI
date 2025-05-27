@@ -25,3 +25,7 @@ Moreover, e-learning platforms support various content formats and are compatibl
 In the corporate world, e-learning platforms are widely used for onboarding, skills development, compliance training, and performance support. Businesses benefit from reduced training costs, consistent content delivery, and scalable learning solutions for teams across different locations.
 
 Overall, e-learning platforms represent a transformative approach to education and training. They break down geographical and temporal barriers, encourage lifelong learning, and empower users with the tools to acquire and apply knowledge efficiently. Whether used in schools, universities, businesses, or informal settings, these platforms play a crucial role in shaping the future of education.
+
+##OUTPUT
+
+<img width="911" alt="Image" src="https://github.com/user-attachments/assets/1ffae3e7-90f8-4f5c-bb0b-28172a33b57c" />
